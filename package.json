@@ -4,7 +4,7 @@
   "description": "CLI tool to generate Express.js projects with optional Firebase integration",
   "type": "module",
   "bin": {
-    "express-firebase": "./cli.js"
+    "expresso": "./cli.js"
   },
   "files": [
     "cli.js"

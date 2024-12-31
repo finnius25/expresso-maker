@@ -14,10 +14,10 @@ npm install -g express-generator
 
 ```bash
 # Create a basic Express project
-express-firebase new my-project
+expresso new my-project
 
 # Create an Express project with Firebase integration
-express-firebase new my-project --firebase
+expresso new my-project --firebase
 ```
 
 ### Generate a test resource
@@ -25,7 +25,7 @@ express-firebase new my-project --firebase
 From within your project directory:
 
 ```bash
-express-firebase generate-resource product
+expresso generate-resource product
 ```
 
 This will create:
