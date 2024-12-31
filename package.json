@@ -1,0 +1,39 @@
+{
+  "name": "expresso-maker",
+  "version": "1.0.0",
+  "description": "CLI tool to generate Express.js projects with optional Firebase integration",
+  "type": "module",
+  "bin": {
+    "express-firebase": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "express",
+    "firebase",
+    "generator",
+    "cli",
+    "scaffold"
+  ],
+  "author": "Finney Koshy",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.1.1"
+  },
+  "peerDependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "firebase-admin": "^11.11.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "YOUR_GITHUB_REPO_URL"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
