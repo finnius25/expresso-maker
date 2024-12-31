@@ -5,7 +5,7 @@ A CLI tool to quickly generate Express.js projects with optional Firebase integr
 ## Installation
 
 ```bash
-npm install -g express-generator
+npm install -g expresso-maker
 ```
 
 ## Usage
