@@ -1,6 +1,8 @@
-# express-firebase-generator
+# expresso-maker ☕️
 
-A CLI tool to quickly generate Express.js projects with optional Firebase integration.
+> *"I'm working late, 'cause I'm a expresso-maker"* - Inspired by Sabrina Carpenter's "Espresso"
+
+A CLI tool to quickly generate Express.js projects with optional Firebase integration. Just like how Sabrina makes her espresso, we make your Express projects with a perfect blend of speed and quality.
 
 ## Installation
 
@@ -13,10 +15,10 @@ npm install -g expresso-maker
 ### Create a new project
 
 ```bash
-# Create a basic Express project
+# Create a basic Express project (like a simple espresso shot)
 expresso new my-project
 
-# Create an Express project with Firebase integration
+# Create an Express project with Firebase integration (like an espresso with extra shots)
 expresso new my-project --firebase
 ```
 
