@@ -4,6 +4,8 @@
 
 A CLI tool to quickly generate Express.js projects with optional Firebase integration. Just like how Sabrina makes her espresso, we make your Express projects with a perfect blend of speed and quality.
 
+![Sabrina Carpenter](espresso_image.webp)
+
 ## Installation
 
 ```bash
